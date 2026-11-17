@@ -1,6 +1,6 @@
 [![best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01)
-[![rank](https://make.fun/badge/best-game-01/Masrukhan25/best-game-01-entry-acct1/rank.svg)](https://make.fun/bounty/best-game-01)
-[![reward](https://make.fun/badge/best-game-01/Masrukhan25/best-game-01-entry-acct1/reward.svg)](https://make.fun/bounty/best-game-01)
+[![rank](https://make.fun/badge/best-game-01/Orochim25/best-game-01-entry-acct1/rank.svg)](https://make.fun/bounty/best-game-01)
+[![reward](https://make.fun/badge/best-game-01/Orochim25/best-game-01-entry-acct1/reward.svg)](https://make.fun/bounty/best-game-01)
 
 # LUMENFALL — Defend the Last Lighthouse
 
